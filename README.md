@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marek Smolík</h1>
-<h3 align="center">IT student from in Czechia</h3>
+<h3 align="center">IT student from Czechia</h3>
 
 - 🌱 I’m currently learning **Rust**
 
@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dynamo58&show_icons=true&locale=en" alt="dynamo58" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamo58&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamo58&layout=compact)
