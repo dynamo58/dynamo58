@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marek</h1>
 <h3 align="center">Student and programmer from Czechia</h3>
 
-- 🔭 I’m currently working on **building portfolio and some other stuff**
+- 🔭 I’m currently working on [a twitch bot Rust](https://github.com/dynamo58/twitch-bot) and [a trivia app in Deno](https://github.com/dynamo58/trivia-game)
 
 - 🌱 I’m currently learning **Deno**
-
-- 👯 I’m looking to collaborate on [a twitch bot Rust](https://github.com/dynamo58/twitch-bot) and [a trivia app in Deno](https://github.com/dynamo58/trivia-game)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
