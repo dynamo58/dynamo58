@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Marek Smolík, I am 20 years of age and currently pursuing Mathmetics and Compsci at the MFF UK. </h3>
+<h3 align="left">My name is Marek Smolík, I am 21 years of age and currently pursuing Mathmetics and Compsci at the MFF UK. </h3>
 
 
 ###
